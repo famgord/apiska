@@ -1,0 +1,1 @@
+INSERT INTO `users` (`id`,`name`,`description`,`created`,`modified`) VALUES (1,'Igor','moderator','2020-04-01 00:35:07','2020-04-01 00:40:07'),(2,'Valera','driver','2018-07-22 18:35:07','2019-04-01 00:40:07'),(3,'Dima','writer','2006-10-01 01:40:07','2012-03-21 10:25:07');
